@@ -1,0 +1,115 @@
+{
+"result": [
+{
+"id": "2",
+"category_name": "Town sweet",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/500.png",
+"supersubcategory": [
+{
+"id": "1",
+"supersubcategory_name": "Sweet",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/404.png",
+"subcategory": [
+{
+"id": "1",
+"subcategory_name": "Laddu",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/500.png"
+}
+]
+},
+{
+"id": "2",
+"supersubcategory_name": "test",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/fdsfsd",
+"subcategory": [
+{
+"id": "2",
+"subcategory_name": "Ghee & Oils",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/500.png"
+}
+]
+},
+{
+"id": "3",
+"supersubcategory_name": "karam",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/",
+"subcategory": [],
+}
+]
+},
+{
+"id": "3",
+"category_name": "Food",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/",
+"supersubcategory": [
+{
+"id": "4",
+"supersubcategory_name": "Rice grains,  Millets  & flour",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/",
+"subcategory": [
+{
+"id": "3",
+"subcategory_name": "Rice",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/"
+},
+{
+"id": "4",
+"subcategory_name": "Whole Millets",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/"
+},
+{
+"id": "5",
+"subcategory_name": "Wheat  flour & Maida",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/"
+}
+]
+},
+{
+"id": "5",
+"supersubcategory_name": "Edible oil,  Salt & Sugar",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/",
+"subcategory": [
+{
+"id": "10",
+"subcategory_name": "Oils",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/"
+}
+]
+},
+{
+"id": "6",
+"supersubcategory_name": "Dal, Noodels  & Vermicilli",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/",
+"subcategory": ""
+},
+{
+"id": "7",
+"supersubcategory_name": "Seasoning, Masala & Spices",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/",
+"subcategory": [
+{
+"id": "6",
+"subcategory_name": "Whole Spices",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/"
+},
+{
+"id": "7",
+"subcategory_name": "Powdered Spices",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/"
+},
+{
+"id": "8",
+"subcategory_name": "Blended Masalas",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/"
+},
+{
+"id": "9",
+"subcategory_name": "Seasoning",
+"app_icon": "https://touchmytown.com/wholesale/image/category_image/"
+}
+]
+}
+]
+}
+]
+}
